@@ -38,7 +38,11 @@
             width: 100%;
             text-align: center;   
         }
-        div>img{border: solid 1px white;}
-        .explicacao{
+
+        .imgborda{
+            border: solid 1px white;
+        }
+
+        .textocentro{
             text-align: center;
         }
