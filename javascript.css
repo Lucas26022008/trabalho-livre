@@ -9,7 +9,6 @@
         p{
             color: white;
             font-size: 20px;
-            text-align: center;
         }
         h1{
             color: white;
@@ -40,3 +39,6 @@
             text-align: center;   
         }
         div>img{border: solid 1px white;}
+        .explicacao{
+            text-align: center;
+        }
