@@ -1,7 +1,7 @@
         img{
             height: auto;
             width: 19cm;
-            text-align: center;
+            margin:0 auto;
         }
         body{
             background-color: black;
