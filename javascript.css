@@ -1,0 +1,35 @@
+        img{
+            height: auto;
+            width: 19cm;
+        }
+        body{
+            background-color: black;
+        }
+        p{
+            color: white;
+            font-size: 20px;
+        }
+        h1{
+            color: white;
+            font-size: 50px;
+        }
+        h2{
+            color: white;
+            font-size: 30px;
+        }
+        h3{
+            color: white;
+            font-size: 40px;
+        }
+        h4{
+            color: white;
+            font-size: 20px;
+        }
+        h5{
+            color: white;
+            font-size: 15px;
+        }
+        h6{
+            color: white;
+            font-size: 10px;
+        }
