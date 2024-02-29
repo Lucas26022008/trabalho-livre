@@ -35,8 +35,8 @@
             color: white;
             font-size: 10px;
         }
-        div{
+        .saque{
             width: 100%;
             text-align: center;   
         }
-        div>img{border:solid 1px white;}
+        div>img{border: solid 1px white;}
