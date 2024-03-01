@@ -63,3 +63,8 @@ h6 {
 .textocentro {
     text-align: center;
 }
+.imgc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
