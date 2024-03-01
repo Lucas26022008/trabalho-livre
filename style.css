@@ -1,56 +1,65 @@
-        img{
-            height: auto;
-            width: 100%;
-            max-width: 19cm;
-            text-align: center;
-        }
-        body{
-            background-color: black;
-        }
-        p{
-            text-align: center;
-            color: white;
-            font-size: 20px;
-        }
-        h1{
-            color: white;
-            text-align: center;
-            font-size: 70px;
-        }
-        h2{
-            color: rgb(255, 0, 0);
-            font-size: 60px;
-            text-align: center;
-        }
-        h3{
-            color: white;
-            text-align: center;
-            font-size: 40px;
-        }
-        h4{
-            color: white;
-            font-size: 20px;
-            text-align: center;
-        }
-        h5{
-            color: white;
-            font-size: 15px;
-            text-align: center;
-        }
-        h6{
-            color: white;
-            text-align: center;
-            font-size: 10px;
-        }
-        .saque{
-            width: 100%;
-            text-align: center;   
-        }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 100%;
+}
+body {
+    background-color: black;
+}
 
-        .imgborda{
-            border: solid 1px white;
-        }
+p {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
 
-        .textocentro{
-            text-align: center;
-        }
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+    font-size: 60px;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+h4 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+h5 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+h6 {
+    color: white;
+    text-align: center;
+    font-size: 10px;
+}
+
+.saque {
+    width: 100%;
+    text-align: center;   
+}
+
+.imgborda {
+    border: solid 1px white;
+}
+
+.textocentro {
+    text-align: center;
+}
