@@ -45,10 +45,8 @@ h6 {
     text-align: center;
 }
 .imgc {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 18cm;
     height: auto;
-    width: 100%;
-    top: auto;
+    display: block;
+    margin: 0;
 }
