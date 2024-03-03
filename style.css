@@ -1,53 +1,39 @@
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
-    width: 50%;
-}
 body {
     background-color: black;
 }
 
-p {
-    text-align: center;
+p{
     color: white;
     font-size: 20px;
 }
 
 h1 {
     color: white;
-    text-align: center;
     font-size: 70px;
 }
 
 h2 {
     color: rgb(255, 0, 0);
     font-size: 60px;
-    text-align: center;
 }
 
 h3 {
     color: white;
-    text-align: center;
     font-size: 40px;
 }
 
 h4 {
     color: white;
     font-size: 20px;
-    text-align: center;
 }
 
 h5 {
     color: white;
     font-size: 15px;
-    text-align: center;
 }
 
 h6 {
     color: white;
-    text-align: center;
     font-size: 10px;
 }
 
@@ -63,8 +49,10 @@ h6 {
 .textocentro {
     text-align: center;
 }
-.imgcentralizada {
-    display: auto;
+.imgc {
+    display: block;
     margin-left: auto;
     margin-right: auto;
+    height: auto;
+    width: 50%;
 }
