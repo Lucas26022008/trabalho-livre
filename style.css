@@ -7,11 +7,6 @@ p{
     font-size: 25px;
 }
 
-img{
-    width: auto;
-    height: auto;
-}
-
 h1 {
     color: white;
     font-size: 70px;
@@ -42,15 +37,11 @@ h6 {
     font-size: 10px;
 }
 
-.imgborda {
-    border: solid 1px white;
-}
-
 .textocentro {
     text-align: center;
 }
 .imgc {
-    width: 90%;
+    width: 50%;
     height: auto;
     margin: 0 auto;
     display: block;
