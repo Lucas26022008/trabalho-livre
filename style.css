@@ -9,6 +9,7 @@ img{
     padding: 50px;
     border: 5px greenyellow 10px;
 }
+
 p{
     color: white;
     font-size: 25px;
@@ -105,6 +106,8 @@ h6 {
     height: auto;
     margin: 0 auto;
     display: block;
+    padding: 50px;
+    border: 5px greenyellow 10px;
 }
 }
 
