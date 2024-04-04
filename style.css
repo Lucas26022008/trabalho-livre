@@ -55,6 +55,14 @@
         margin: 0 auto;
         display: block;
     }
+
+    .imgc2 {
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+
     .textocentro{
         text-align: center;
     }
