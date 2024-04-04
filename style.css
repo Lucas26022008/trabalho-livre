@@ -71,6 +71,13 @@
         text-align: center;
     }
     
+    ol{
+        color: white;
+    }
+
+    ul{
+        color: white;
+    }
 }
     
     /*RESPONSIVIDADE PARA COMPUTADOR eTELAS GRANDES */
