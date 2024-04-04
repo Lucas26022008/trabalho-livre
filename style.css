@@ -49,21 +49,22 @@
         font-size: 0.625em;
     }
     
-   .imgc {
+  .imgc {
         width: 400px;
         height: auto;
         margin: 0 auto;
         display: block;
+        max-width: 100%;
     }
 
-    .imgc2 {
+   .imgc2 {
         width: 90%;
         height: auto;
         margin: 0 auto;
         display: block;
     }
 
-    .textocentro{
+   .textocentro{
         text-align: center;
     }
     
@@ -125,21 +126,23 @@
         font-size: 10px;
     }
     
-   .imgc {
+  .imgc {
         width: auto;
         height: auto;
         margin: 10%;
         display: block;
+        max-width: 100%;
     }
 
-    .imgc2 {
+   .imgc2 {
         width: auto;
         height: auto;
         margin: 10%;
         display: block;
+        max-width: 100%;
     }
 
-    .textocentro{
+   .textocentro{
         text-align: center;
     }
 }    
