@@ -10,7 +10,22 @@
         text-align: center;
 …    }
     
-    
+    p{
+    color: white;
+    font-size: 25px;
+    }
+
+    h1 {
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    }
+
+    h2 {
+    color: rgb(255, 0, 0);
+    font-size: 60px;
+    }
+
     h3 {
         color: white;
         font-size: 50px;
