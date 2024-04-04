@@ -2,7 +2,7 @@
 @media only screen and (max-width:800px) {
 
     body {
-        background-color: rgb(0, 0, 0);
+        background-color: black;
         text-align: left;
     }
     
@@ -28,7 +28,21 @@
     h2 {
         color: rgb(255, 0, 0);
         font-size: 60px;
+    }/* CELPHONE a  NOW */
+@media only screen and (max-width:800px)  {
+
+    body {
+        background-color: rgb(0, 0, 0);
+        text-align: left;
     }
+    
+    img{
+        text-align: center;
+…    }
+    }
+    
+    
+    /*TABLET PARA UM FUTURO TAO TAO DISTANTE */
     
     h3 {
         color: white;
@@ -69,6 +83,7 @@
     body {
         margin-left: 10%;
         margin-right: 10%;
+        background-color: black;
     }
     
     img{
