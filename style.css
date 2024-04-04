@@ -1,34 +1,4 @@
 /* CELPHONE a  NOW */
-@media only screen and (max-width:800px) {
-
-    body {
-        background-color: black;
-        text-align: left;
-    }
-    
-    img{
-        text-align: center;
-        display: block;
-        margin: auto;
-        padding: 50px;
-        border: 50px rgb(255, 255, 255) 10px;
-    }
-    
-    p{
-        color: white;
-        font-size: 25px;
-    }
-    
-    h1 {
-        color: white;
-        font-size: 70px;
-        text-transform: uppercase;
-    }
-    
-    h2 {
-        color: rgb(255, 0, 0);
-        font-size: 60px;
-    }/* CELPHONE a  NOW */
 @media only screen and (max-width:800px)  {
 
     body {
@@ -39,10 +9,7 @@
     img{
         text-align: center;
 …    }
-    }
     
-    
-    /*TABLET PARA UM FUTURO TAO TAO DISTANTE */
     
     h3 {
         color: white;
@@ -77,8 +44,7 @@
     }
     
     /*RESPONSIVIDADE PARA COMPUTADOR eTELAS GRANDES */
-    @media only screen and (max-width:1280px), (min-height:801px){
-    
+@media only screen and (max-width:1280px), (min-height:801px){
     
     body {
         margin-left: 10%;
@@ -134,7 +100,5 @@
         padding: 50px;
         border: 5px greenyellow 10px;
     }
-    }
-    
-    
+}    
     /*TABLET PARA UM FUTURO TAO TAO DISTANTE */
