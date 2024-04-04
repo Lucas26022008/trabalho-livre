@@ -55,8 +55,11 @@
         margin: 0 auto;
         display: block;
     }
-    
+    .textocentro{
+        text-align: center;
     }
+    
+}
     
     /*RESPONSIVIDADE PARA COMPUTADOR eTELAS GRANDES */
 @media only screen and (max-width:1280px), (min-height:801px){
@@ -111,6 +114,9 @@
         height: auto;
         margin: 0 auto;
         display: block;
+    }
+    .textocentro{
+        text-align: center;
     }
 }    
     /*TABLET PARA UM FUTURO TAO TAO DISTANTE */
