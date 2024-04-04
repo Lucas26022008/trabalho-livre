@@ -54,8 +54,6 @@
         height: auto;
         margin: 0 auto;
         display: block;
-        padding: 50px;
-        border: 5px greenyellow 10px;
     }
     
     }
@@ -70,8 +68,7 @@
     }
     
     img{
-        padding: 50px;
-        border: 5px greenyellow 10px;
+
     }
     
     p{
@@ -114,8 +111,6 @@
         height: auto;
         margin: 0 auto;
         display: block;
-        padding: 50px;
-        border: 5px greenyellow 10px;
     }
 }    
     /*TABLET PARA UM FUTURO TAO TAO DISTANTE */
