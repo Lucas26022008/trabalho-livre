@@ -71,11 +71,7 @@
         text-align: center;
     }
     
-    ol{
-        color: white;
-    }
-
-    ul{
+    li{
         color: white;
     }
 }
@@ -95,11 +91,7 @@
 
     }
     
-    ol{
-        color: white;
-    }
-
-    ul{
+    li{
         color: white;
     }
 
