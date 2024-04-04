@@ -123,6 +123,14 @@
         margin: 0 auto;
         display: block;
     }
+
+    .imgc {
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+
     .textocentro{
         text-align: center;
     }
