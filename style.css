@@ -54,7 +54,7 @@
         height: auto;
         margin: 0 auto;
         display: block;
-        max-width: 100%;
+        max-width: 90%;
     }
 
    .imgc2 {
@@ -62,6 +62,7 @@
         height: auto;
         margin: 0 auto;
         display: block;
+        max-width: 90%;
     }
 
    .textocentro{
@@ -131,7 +132,7 @@
         height: auto;
         margin: 10%;
         display: block;
-        max-width: 100%;
+        max-width: 90%;
     }
 
    .imgc2 {
@@ -139,7 +140,7 @@
         height: auto;
         margin: 10%;
         display: block;
-        max-width: 100%;
+        max-width: 90%;
     }
 
    .textocentro{
