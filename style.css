@@ -2,7 +2,7 @@
 @media only screen and (max-width:800px) {
 
 body {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     text-align: left;
 }
 
@@ -11,7 +11,7 @@ img{
     display: block;
     margin: auto;
     padding: 50px;
-    border: 50px rgb(255, 0, 0) 10px;
+    border: 50px rgb(255, 255, 255) 10px;
 }
 
 p{
