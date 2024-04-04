@@ -126,16 +126,16 @@
     }
     
    .imgc {
-        width: 70%;
+        width: auto;
         height: auto;
-        margin: 0 auto;
+        margin: 10%;
         display: block;
     }
 
     .imgc2 {
-        width: 90%;
+        width: auto;
         height: auto;
-        margin: 0 auto;
+        margin: 10%;
         display: block;
     }
 
