@@ -45,19 +45,19 @@ a:hover h3 {
     transition: color 0.3s;
 }
 
-.imgc,
-.imgc2 {
-    width: 90%;
-    max-width: 500px;
-    margin: 20px auto;
+.imgc, .imgc2 {
+    width: 70%; /* Reduz a largura padrão para 70% da largura do container */
+    max-width: 350px; /* Define um tamanho máximo para que as imagens não fiquem muito grandes */
+    margin: 20px auto; /* Centraliza as imagens */
     display: block;
-    border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); /* Adiciona uma sombra leve */
 }
 
 .imgc2 {
-    max-width: 700px; /* Ajuste específico para imagens maiores */
+    max-width: 500px; /* Mantém imagens maiores ligeiramente maiores */
 }
+
 
 .textocentro {
     text-align: center;
