@@ -1,3 +1,7 @@
+*{
+    margin: 0 20px 0 20px;
+}
+
 body {
     background-color: #121212; /* Fundo escuro para um contraste agradável */
     color: #e0e0e0; /* Texto claro para legibilidade */
